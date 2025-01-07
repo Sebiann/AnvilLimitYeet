@@ -1,6 +1,8 @@
 # AnvilLimitYeet
 
- Removes the maximum cost of 40 levels from Minecraft anvils. 
+Removes the maximum cost of 40 levels from Minecraft anvils.
+
+Original https://github.com/abus-sh/InfiniteAnvilUses
  
 ## License
 
